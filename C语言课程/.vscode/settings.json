@@ -1,0 +1,16 @@
+{
+    "files.autoSave": "onFocusChange",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.encoding": "gbk",
+    "files.autoGuessEncoding": false,
+    "workbench.editor.showTabs": true,
+    "clang.completion.enable": true,
+    "code-runner.runInTerminal": true,
+    "clang.diagnostic.enable": false,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    }
+}
+    
