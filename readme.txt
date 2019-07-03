@@ -5,4 +5,4 @@ add this--this is not ture
 teatime
 Git tracks changes of files.
 111111
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
